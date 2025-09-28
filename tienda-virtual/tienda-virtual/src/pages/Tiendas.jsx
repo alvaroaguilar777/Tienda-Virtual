@@ -178,7 +178,7 @@ function Tiendas() {
         {/* Productos */}
         <div
           style={{
-            background: "#c5fdfdff",
+            background: "#b8f6f6ff",
             padding: "15px",
             borderRadius: "12px",
             boxShadow: "0 2px 6px rgba(0,0,0,0.2)",
