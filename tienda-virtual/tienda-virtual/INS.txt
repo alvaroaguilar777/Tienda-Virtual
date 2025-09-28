@@ -1,0 +1,11 @@
+New Terminal
+cd tienda-virtual
+cd tienda-virtual
+npm run dev
+
+New Terminal
+cd tienda-virtual
+cd tienda-virtual
+cd server
+npm run dev
+
